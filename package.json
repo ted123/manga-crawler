@@ -1,0 +1,19 @@
+{
+  "name": "manga-crawler",
+  "version": "1.0.0",
+  "description": "Notifying system for manga updates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dedito Cantila Jr.",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "boom": "^2.7.2",
+    "hapi": "^8.5.1",
+    "hapi-swagger": "^0.7.3",
+    "joi": "^6.4.1",
+    "request": "^2.55.0"
+  }
+}
